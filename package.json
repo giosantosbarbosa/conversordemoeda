@@ -2,7 +2,7 @@
   "name": "cambio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://giosantosbarbosa.github.io/conversordemoeda/",
+  "homepage": "https://giosantosbarbosa.github.io/conversordemoeda/", 
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
@@ -14,11 +14,8 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "deploy": "gh-pages -d build"
+   
   },
   "eslintConfig": {
     "extends": [
