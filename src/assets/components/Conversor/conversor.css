@@ -1,0 +1,56 @@
+div.conversor  {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #1d3140 ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+div.conversor h1 {
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #1d3140;
+    border-radius: 10px;
+}
+
+div.conversor-data {
+    display:flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+    align-items: center;
+}
+
+div.de-para {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+
+div.de-para label select {
+    margin: 8px;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    background-color: #1d3140;
+}
+
+div.valor {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+div.valor input {
+    margin: 8px;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    background-color: #1d3140;
+    padding: 0px 3px 0px 3px;
+}
+
