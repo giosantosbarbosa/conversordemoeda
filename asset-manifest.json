@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conversordemoeda/static/css/main.4c593c69.chunk.css",
+    "main.js": "/conversordemoeda/static/js/main.5a56eff7.chunk.js",
+    "main.js.map": "/conversordemoeda/static/js/main.5a56eff7.chunk.js.map",
+    "runtime~main.js": "/conversordemoeda/static/js/runtime~main.b68743a5.js",
+    "runtime~main.js.map": "/conversordemoeda/static/js/runtime~main.b68743a5.js.map",
+    "static/js/2.a7f37d0f.chunk.js": "/conversordemoeda/static/js/2.a7f37d0f.chunk.js",
+    "static/js/2.a7f37d0f.chunk.js.map": "/conversordemoeda/static/js/2.a7f37d0f.chunk.js.map",
+    "index.html": "/conversordemoeda/index.html",
+    "precache-manifest.a3ed29532299446c1d4c8cfa7f357cda.js": "/conversordemoeda/precache-manifest.a3ed29532299446c1d4c8cfa7f357cda.js",
+    "service-worker.js": "/conversordemoeda/service-worker.js",
+    "static/css/main.4c593c69.chunk.css.map": "/conversordemoeda/static/css/main.4c593c69.chunk.css.map",
+    "static/media/logo.png": "/conversordemoeda/static/media/logo.de956a32.png"
+  }
+}
